@@ -1,5 +1,6 @@
 # Contributors
 
+- [Sebastian](https://github.com/https://github.com/sebastianlinloveslebronjames)
 - [sliec](https://github.com/sliec)
 - [Indrajith N](https://github.com/IndrajithN06)
 - [Narmin İbrahimova](https://github.com/Narminibrahimova)
